@@ -47,7 +47,7 @@ print("---Temp:", microcontroller.cpu.temperature, "C")
 
 
 keymap = {
-    (0): (KEY, (Keycode.GUI, Keycode.C)),
+    (0): (KEY, (Keycode.GUI, Keycode.V)),
     (1): (KEY, (Keycode.GUI, Keycode.V)),
     (2): (KEY, [Keycode.THREE]),
     (3): (KEY, [Keycode.FOUR]),
